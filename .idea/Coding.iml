@@ -5,9 +5,9 @@
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/file_encrypt/venv/include" />
       <excludeFolder url="file://$MODULE_DIR$/New folder/venv/include" />
-      <excludeFolder url="file://$MODULE_DIR$/Text_recognising/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Steganography/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.11 (Coding) (2)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.11 (Coding)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
