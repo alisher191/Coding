@@ -1,0 +1,1 @@
+([('main', '/Users/macbook/Desktop/open/dist/main', 'EXECUTABLE')],)

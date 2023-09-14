@@ -1,0 +1,3 @@
+([('downloader',
+   '/Users/macbook/Desktop/Custom/dist/downloader',
+   'EXECUTABLE')],)
