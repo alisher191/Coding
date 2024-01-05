@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
-TOKEN = '5721945909:AAFY-SECRiiBkl4KAfAazxiyz1DAJ5M9mTM'
+TOKEN = 'YOUR_TOKEN'
 CHANNEL_URL = 'https://t.me/mytestlight'
 CHANNEL_ID = '@mytestlight'
 CHAT_ID = '@mytestlightchat'
